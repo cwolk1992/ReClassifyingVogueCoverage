@@ -32,6 +32,9 @@ To reclassify Vogue runway show coverage from the Vogue website.
 # Improving the model
 - To improve model created a line graph showing how coherence scores increase by topic
 - Elbows occured at 8 and 20 so I decided to test both 8 topics and 20 topics
+###
+![coherence score](Readme_Images/coherence.png)
+###
 - The coherence score with 20 topics was 
 - The coherence scorre with 8 topics was 0.439 (the highest coherence score of the two)
 - There wasn't much overlap of topics either (which I was worried about due to the lower number of topics)
